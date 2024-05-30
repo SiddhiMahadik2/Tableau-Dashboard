@@ -1,1 +1,3 @@
 # Tableau-Dashboard
+King County House Sales Analysis
+This GitHub repository contains a Tableau workbook titled "KingCounty HouseSales.twb," which provides an in-depth analysis of house sales in King County. The visualization offers insights into various aspects of the housing market, including price trends, sales distribution, and key factors influencing property values. The dataset used encompasses multiple attributes such as sale prices, locations, and housing characteristics, enabling a comprehensive examination of market dynamics. This tool is essential for real estate analysts, prospective buyers, and policymakers aiming to understand the housing market trends and make informed decisions.
